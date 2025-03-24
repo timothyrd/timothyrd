@@ -9,7 +9,7 @@ My passion isn't just about writing code - it's about solving puzzles, creating 
 
 ---
 
-💻 **Tech Stack** <br>
+### 💻 **Tech Stack** <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
@@ -25,7 +25,7 @@ My passion isn't just about writing code - it's about solving puzzles, creating 
 
 ---
 -->
-## 📫 **Contact**  
+### 📫 **Contact**  
 
 💼 [LinkedIn](https://www.linkedin.com/in/timothy-ruiz-docena-90169b335/)  
 💻 [Portfolio](#) *(Coming soon)*  
