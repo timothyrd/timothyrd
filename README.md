@@ -29,7 +29,7 @@ My passion isn't just about writing code - it's about solving puzzles, creating 
 
 💼 [LinkedIn](https://www.linkedin.com/in/timothy-ruiz-docena-90169b335/)  
 💻 [Portfolio](#) *(Coming soon)*  
-📧 [Email](timruizdocena@gmail.com)  
+📧 Email: timruizdocena@gmail.com
 
 ---
 
